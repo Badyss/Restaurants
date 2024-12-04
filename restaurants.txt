@@ -1,0 +1,13 @@
+Restaurant; adresse; coordonnée; spécialité
+La Belle Vie; 27, rue du Faubourg Saint-Honoré - Paris 7ème; (x=117.3641, y=26.633); { Cuisine marocaine };
+Savory Delights; 92, avenue de l'Opéra - Paris 7ème; (x=-33.5993, y=22.3471); { Brasserie };
+WOOOOOOKKK ; 36, rue de la Paix - Paris 4ème; (x=-17.0854, y=5.0635); { Cuisine asiatique };
+Le Trésor Caché; 55, rue de la Paix - Paris 7ème; (x=-3.9472, y=41.4208); { Cuisine asiatique };
+Le Petit Bistro; 64, rue de Lille - Paris 8ème; (x=-41.6858, y=90.1081); { Cuisine mexicaine };
+Le Petit Bistro; 40, rue du Faubourg Saint-Honoré - Paris 9ème; (x=61.1201, y=18.7618); { Cuisine italienne };
+La Belle Vie; 46, rue Lafayette - Paris 3ème; (x=-11.0444, y=95.337); { Cuisine mexicaine };
+Le Petit Bistro; 68, rue Montorgueil - Paris 5ème; (x=113.3964, y=62.2004); { Cuisine asiatique };
+Le Jardin Secret; 93, avenue de l'Opéra - Paris 10ème; (x=58.0315, y=0.5936); { Cuisine traditionnelle française };
+L'Authentique; 20, avenue des Champs-Élysées - Paris 6ème; (x=72.6512, y=75.188); { Cuisine asiatique };
+
+
